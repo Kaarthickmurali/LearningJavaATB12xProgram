@@ -1,6 +1,6 @@
 package Ex_01_basics;
 
-public class HelloWorld {
+public class Helloworld {
 
     public static void main(String[] args) {
 
