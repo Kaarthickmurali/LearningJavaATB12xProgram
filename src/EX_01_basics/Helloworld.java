@@ -1,4 +1,4 @@
-package Ex_01_basics;
+package EX_01_basics;
 
 public class Helloworld {
 
